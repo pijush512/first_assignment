@@ -1,5 +1,5 @@
 
-
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 
 /* Common style */
 .btn {
@@ -17,6 +17,9 @@
     transition: 0.5s;
     font-size: 18px;
 }
+body {
+    font-family: "Raleway", sans-serif;
+}
 /* Header style start*/
 .header {
     background-image: url('../images/banner.png');
@@ -33,7 +36,8 @@ nav {
 nav h3 {
     font-size: 34px;
     color: #4E47FF;
-    font-family: 900;
+    font-weight: 900;
+    font-family: "Inter", sans-serif;
 
 }
 .header_title h1{
@@ -42,7 +46,6 @@ nav h3 {
     color: black;
     text-align: center;
     margin-top: 100px;
-
 }
 .header_btn {
     text-align: center;
@@ -97,6 +100,7 @@ nav h3 {
     font-weight: bold;
     color: #4E47FF;
     margin-top: 11px;
+    font-family: "Inter", sans-serif;
 }
 .user p {
     font-size: 20px;
@@ -246,6 +250,7 @@ footer {
     font-weight: bolder;
     color: #4E47FF;
     text-align: center;
+    font-family: "Inter", sans-serif;
 }
 .foter_content p {
     font-size: 16px;
@@ -267,4 +272,5 @@ footer {
 .footer_list ul li a {
     text-decoration: none;
     color: #8987A1;
+    font-family: "Inter", sans-serif;
 }
