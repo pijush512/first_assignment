@@ -1,0 +1,45 @@
+
+
+
+/* Common style */
+.btn {
+    background-color: #4E47FF;
+    color: #fff;
+    padding: 24px 60px;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 10px;
+    border: none;
+}
+
+/* Header style start*/
+.header {
+    background-image: url('../images/banner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* Nav Style Start */
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 100px;
+    align-items: center;
+}
+nav h3 {
+    font-size: 34px;
+    color: #4E47FF;
+    font-family: 900;
+
+}
+.header_title h1{
+    font-size: 65px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    margin-top: 100px;
+
+}
+.header_btn {
+    text-align: center;
+    padding-bottom: 150px;
+}
