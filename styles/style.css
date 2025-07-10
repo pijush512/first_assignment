@@ -147,3 +147,34 @@ nav h3 {
 .user_doco p {
     color: #B3B3B3;
 }
+/* ready to focus section start */
+.ready_to_focus {
+    padding: 71px;
+    margin: 50px 150px;
+    box-shadow: rgba(0, 0, 0, 0.10) 0px 1px 4px;
+    border-radius: 14px;
+}
+.ready_to_focus_doco h3 {
+    font-size: 50px;
+    color: #000;
+    font-weight: bold;
+    text-align: center;
+    margin-top: -20px;
+}
+.ready_to_focus_doco p {
+    color: #757575;
+    margin-top: -31px;
+    margin-bottom: 26px;
+    text-align: center;
+    
+}
+.ready_to_focus_btn {
+    display: block;
+    margin: 0 auto;
+}
+.ready_to_focus_doco img {
+    border-radius: 48px;
+    display: block;
+    margin: 28px auto;
+    width: 840px;
+}
